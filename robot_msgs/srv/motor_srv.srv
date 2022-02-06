@@ -1,0 +1,4 @@
+float64 delay
+int8 direction
+---
+bool finish
